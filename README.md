@@ -112,8 +112,8 @@ Ideal for:
 
 ## 👨‍💻 Author
 
-Your Name  
-🔗 GitHub: https://github.com/YOUR_USERNAME  
+Mayukh Ghosh  
+🔗 GitHub: https://github.com/MAECDWBG  
 
 ---
 
